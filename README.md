@@ -44,7 +44,7 @@ The repository is structured as follows:
 To use the AI model for recognizing screenshots, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/Arminsbss/binary-classification-screenshots/tree/main>
    ```
 2. Navigate to the repository directory:
    ```bash
@@ -70,7 +70,7 @@ Select an image using the "Choose Image" button, and the application will displa
 #### Conclusion
 This repository serves as a demonstration of using machine learning techniques, specifically deep learning models, for classifying screenshots. The provided model can be further improved and customized for specific applications or domains.
 
-For any inquiries or issues, please contact [repository owner's name] at [contact email].
+For any inquiries or issues, please contact [[repository owner's name](https://github.com/Arminsbss)] at [contact email].
 
 ---
 
