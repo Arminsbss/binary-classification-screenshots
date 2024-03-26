@@ -5,8 +5,9 @@ This repository contains an AI model trained to distinguish between screenshots 
 
 #### Demo Video
 Check out the demo video of the application: [3979677129529659717 -210075.mp4](link_to_demo_video)
-look <video src='3979677129529659717 -210075.mp4' width=180/>
-
+[![Now in Android: 55]          // Title
+(3979677129529659717 -210075.mp4)] // Thumbnail
+(3979677129529659717 -210075.mp4 "Now in Android: 55")    // Video Link
 #### Model Performance
 The model achieved the following classification metrics on a test dataset:
 - **Accuracy:** 89%
