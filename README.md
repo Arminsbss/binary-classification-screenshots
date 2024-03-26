@@ -5,7 +5,7 @@ This repository contains an AI model trained to distinguish between screenshots 
 
 #### Demo Video
 Check out the demo video of the application: [3979677129529659717 -210075.mp4](link_to_demo_video)
-<video src='3979677129529659717 -210075.mp4' width=180/>
+look <video src='3979677129529659717 -210075.mp4' width=180/>
 
 #### Model Performance
 The model achieved the following classification metrics on a test dataset:
