@@ -4,8 +4,7 @@
 This repository contains an AI model trained to distinguish between screenshots and real pictures. The model is based on an improved version of the VGG architecture and has been trained and evaluated on a dataset of screenshots and real images.
 
 #### Demo Video
-https://user-images.githubusercontent.com/6877923/115474571-03c75800-a23e-11eb-8096-8973aad5fa9f.mp4
-
+https://drive.google.com/file/d/1jodaHoIcVuI5XvsG1w9bS8GENaQ1AfKC/view?usp=drive_link
 #### Model Performance
 The model achieved the following classification metrics on a test dataset:
 - **Accuracy:** 89%
