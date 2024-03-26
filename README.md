@@ -4,7 +4,7 @@
 This repository contains an AI model trained to distinguish between screenshots and real pictures. The model is based on an improved version of the VGG architecture and has been trained and evaluated on a dataset of screenshots and real images.
 
 #### Demo Video
-https://drive.google.com/file/d/1jodaHoIcVuI5XvsG1w9bS8GENaQ1AfKC/view?usp=drive_link
+https://armin-sabour.epidemic-calculator.info/assets/3979677129529659717%20-210075.mp4
 #### Model Performance
 The model achieved the following classification metrics on a test dataset:
 - **Accuracy:** 89%
