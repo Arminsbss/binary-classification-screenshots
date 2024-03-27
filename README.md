@@ -5,8 +5,15 @@ This repository contains an AI model trained to distinguish between screenshots 
 
 #### Demo Video
 https://armin-sabour.epidemic-calculator.info/assets/3979677129529659717%20-210075.mp4
+
+
+
 #### Model Performance
 The model achieved the following classification metrics on a test dataset:
+
+Uploading 3979677129529659717 -210075.mp4…
+
+
 - **Accuracy:** 90%
 - **Precision:** 
   - Class 0 (Real Pictures): 96%
