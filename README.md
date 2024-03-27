@@ -7,7 +7,7 @@ This repository contains an AI model trained to distinguish between screenshots 
 
 https://github.com/Arminsbss/binary-classification-screenshots/assets/95970651/35b58fd1-d1d9-4092-b314-ee929f0e68e8
 
-[Download demo video]https://armin-sabour.epidemic-calculator.info/assets/3979677129529659717%20-210075.mp4
+[[Download demo video](https://armin-sabour.epidemic-calculator.info/assets/3979677129529659717%20-210075.mp4)]
 
 #### Model Performance
 The model achieved the following classification metrics on a test dataset:
