@@ -3,6 +3,9 @@
 #### Overview
 This repository contains an AI model trained to distinguish between screenshots and real pictures. The model is based on an improved version of the VGG architecture and has been trained and evaluated on a dataset of screenshots and real images.
 
+- **[Armin Sabourmoghaddam](https://github.com/Arminsbss)** Developed the full architecture of the Neural network.
+- **[Pooria Rabie](https://github.com/PooriaRabie)** Improved the accuracy.
+
 #### Demo Video
 
 https://github.com/Arminsbss/binary-classification-screenshots/assets/95970651/35b58fd1-d1d9-4092-b314-ee929f0e68e8
